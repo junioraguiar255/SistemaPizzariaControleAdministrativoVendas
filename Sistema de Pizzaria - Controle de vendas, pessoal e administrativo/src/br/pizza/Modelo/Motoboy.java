@@ -1,4 +1,4 @@
-package br.pizza.telas;
+package br.pizza.Modelo;
 
 public class Motoboy extends Funcionario {
 	private String moto_placa;

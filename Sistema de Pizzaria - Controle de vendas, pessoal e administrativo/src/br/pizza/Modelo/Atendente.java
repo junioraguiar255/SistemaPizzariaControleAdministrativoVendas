@@ -1,4 +1,4 @@
-package br.pizza.telas;
+package br.pizza.Modelo;
 
 
 public class Atendente extends Funcionario implements Autentificavel {

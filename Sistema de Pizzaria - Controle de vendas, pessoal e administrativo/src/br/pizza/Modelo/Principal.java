@@ -1,4 +1,4 @@
-package br.pizza.telas;
+package br.pizza.Modelo;
 
 import java.util.ArrayList;
 import java.util.Scanner;
