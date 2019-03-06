@@ -1,11 +1,16 @@
-package br.pizza.Modelo;
+package br.pizza.ModeloBeans;
 
+/**
+ * 
+ * @author JOSEMAR JUNIOR
+ * 
+ */
 
 public class PedidoEntrega extends Pedido {
 
 	private double taxa_entrega;
 
-	public PedidoEntrega(Cliente cliente, Funcionario atendente, int id,Motoboy entregador) {
+	public PedidoEntrega(Cliente cliente, Funcionario atendente, int id, Motoboy entregador) {
 		super(cliente, atendente, id);
 		this.setTaxa_entrega(3);
 		this.setValor(getValor() + getTaxa_entrega());

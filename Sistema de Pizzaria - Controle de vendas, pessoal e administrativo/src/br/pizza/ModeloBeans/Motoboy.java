@@ -1,4 +1,10 @@
-package br.pizza.Modelo;
+package br.pizza.ModeloBeans;
+
+/**
+ * 
+ * @author JOSEMAR JUNIOR
+ * 
+ */
 
 public class Motoboy extends Funcionario {
 	private String moto_placa;

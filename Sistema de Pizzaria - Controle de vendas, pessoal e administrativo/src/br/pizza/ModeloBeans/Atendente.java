@@ -1,5 +1,10 @@
-package br.pizza.Modelo;
+package br.pizza.ModeloBeans;
 
+/**
+ * 
+ * @author JOSEMAR JUNIOR
+ * 
+ */
 
 public class Atendente extends Funcionario implements Autentificavel {
 	private int ramal;
@@ -24,15 +29,12 @@ public class Atendente extends Funcionario implements Autentificavel {
 
 	@Override
 	public void criaLogin() {
-		
-		
+
 	}
 
 	@Override
 	public void esqueceuSenha() {
-		
-		
+
 	};
 
 }
-

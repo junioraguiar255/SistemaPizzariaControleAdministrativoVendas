@@ -1,5 +1,10 @@
-package br.pizza.Modelo;
+package br.pizza.ModeloBeans;
 
+/**
+ * 
+ * @author JOSEMAR JUNIOR
+ * 
+ */
 
 import java.util.Date;
 
@@ -91,7 +96,5 @@ public class Pedido {
 	public void setHora(Date hora) {
 		this.hora = hora;
 	}
-
-
 
 }

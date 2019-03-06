@@ -1,5 +1,10 @@
-package br.pizza.Modelo;
+package br.pizza.ModeloBeans;
 
+/**
+ * 
+ * @author JOSEMAR JUNIOR
+ * 
+ */
 
 public class Endereco {
 	private String rua;
@@ -38,4 +43,3 @@ public class Endereco {
 	}
 
 }
-

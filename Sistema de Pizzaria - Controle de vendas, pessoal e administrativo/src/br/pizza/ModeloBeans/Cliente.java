@@ -1,6 +1,12 @@
-package br.pizza.Modelo;
+package br.pizza.ModeloBeans;
 
 import java.util.ArrayList;
+
+/**
+ * 
+ * @author JOSEMAR JUNIOR
+ * 
+ */
 
 public class Cliente extends Pessoa {
 	private int telefone;

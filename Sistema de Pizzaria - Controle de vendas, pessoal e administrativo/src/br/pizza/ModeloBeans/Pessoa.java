@@ -1,5 +1,10 @@
-package br.pizza.Modelo;
+package br.pizza.ModeloBeans;
 
+/**
+ * 
+ * @author JOSEMAR JUNIOR
+ * 
+ */
 
 public abstract class Pessoa {
 	private String nome;

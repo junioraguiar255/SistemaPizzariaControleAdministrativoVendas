@@ -1,9 +1,18 @@
-package br.pizza.Modelo;
+package br.pizza.ModeloBeans;
 
 import java.util.ArrayList;
 import java.util.Scanner;
 
 public class Principal {
+
+	/**
+	 * CLASSE PARA REALIZAR TESTES NO CONSOLE E JÁ SIMULANDO O FUNCIONAMENTO DO
+	 * SISTEMA
+	 * 
+	 * @author JOSEMAR JUNIOR
+	 * 
+	 */
+
 	static Scanner input = new Scanner(System.in);
 
 	static ArrayList<Cliente> clientes = new ArrayList<Cliente>();

@@ -1,5 +1,10 @@
-package br.pizza.Modelo;
+package br.pizza.ModeloBeans;
 
+/**
+ * 
+ * @author JOSEMAR JUNIOR
+ * 
+ */
 
 public class Gerente extends Funcionario implements Autentificavel {
 

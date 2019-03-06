@@ -1,5 +1,10 @@
-package br.pizza.Modelo;
+package br.pizza.ModeloBeans;
 
+/**
+ * 
+ * @author JOSEMAR JUNIOR
+ * 
+ */
 
 public abstract class Funcionario extends Pessoa {
 
@@ -47,4 +52,3 @@ public abstract class Funcionario extends Pessoa {
 	}
 
 }
-
